@@ -1,6 +1,6 @@
-# FlowPay
+# Flowpay
 
-**Real time digital wallet and peer-to-peer payment platform** - built to demonstrate real financial system engineering: ACID compliant fund transfers, pessimistic concurrency control, an immutable double entry ledger, idempotent transaction processing and an event driven architecture, all secured behind cookie based JWT authentication with CSRF protection.
+**Real time digital wallet and peer-to-peer payment platform** built to demonstrate real financial system engineering: ACID compliant fund transfers, pessimistic concurrency control, an immutable double entry ledger, idempotent transaction processing and an event driven architecture, all secured behind cookie based JWT authentication with CSRF protection.
 
 <div align="center">
 
