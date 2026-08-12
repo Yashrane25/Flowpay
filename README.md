@@ -2,6 +2,8 @@
 
 **Real time digital wallet and peer-to-peer payment platform** - built to demonstrate real financial system engineering: ACID compliant fund transfers, pessimistic concurrency control, an immutable double entry ledger, idempotent transaction processing and an event driven architecture, all secured behind cookie based JWT authentication with CSRF protection.
 
+<div align="center">
+
 [![Java](https://img.shields.io/badge/Java-21-007396?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-JWT%20%2B%20RBAC-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
@@ -12,8 +14,9 @@
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Event--Driven-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Flyway](https://img.shields.io/badge/Flyway-Migrations-CC0200?style=flat-square&logo=flyway&logoColor=white)](https://flywaydb.org/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![JUnit5](https://img.shields.io/badge/JUnit5-Testing-25A162?style=flat-square&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://swagger.io/)
+
+</div>
 
 ---
 
