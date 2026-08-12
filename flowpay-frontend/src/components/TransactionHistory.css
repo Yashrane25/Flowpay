@@ -1,0 +1,91 @@
+.history-card {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+.history-title {
+  margin: 0 0 1rem 0;
+  font-size: 1.15rem;
+  color: #1a1a2e;
+}
+
+.history-loading {
+  color: #6b7280;
+  margin: 0;
+}
+
+.history-error {
+  color: #b91c1c;
+  margin: 0;
+}
+
+.history-empty {
+  color: #6b7280;
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.history-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.history-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #f3f4f6;
+  font-size: 0.9rem;
+}
+
+.history-row:last-child {
+  border-bottom: none;
+}
+
+.history-type {
+  font-weight: 600;
+  min-width: 70px;
+}
+
+.history-amount {
+  font-weight: 600;
+}
+
+.history-row.credit .history-amount {
+  color: #15803d;
+}
+
+.history-row.debit .history-amount {
+  color: #b91c1c;
+}
+
+.history-date {
+  color: #6b7280;
+  font-size: 0.8rem;
+}
+
+.history-row {
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.history-main {
+  display: flex;
+  flex-direction: column;
+}
+
+.history-counterparty {
+  font-size: 0.8rem;
+  color: #6b7280;
+  font-weight: 400;
+}
+
+.history-side {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}

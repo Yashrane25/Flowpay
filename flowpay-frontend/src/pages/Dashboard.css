@@ -1,0 +1,119 @@
+.dashboard-page {
+  font-family: sans-serif;
+  padding: 2rem;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.dashboard-title {
+  font-size: 1.5rem;
+  color: #1a1a2e;
+  margin: 0;
+}
+
+.logout-button {
+  padding: 0.5rem 1rem;
+  background-color: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.dashboard-welcome {
+  font-size: 1.05rem;
+  color: #111827;
+}
+
+.dashboard-note {
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+.dashboard-page {
+  font-family: sans-serif;
+  padding: 2rem;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.dashboard-title {
+  font-size: 1.5rem;
+  color: #1a1a2e;
+  margin: 0;
+}
+
+.logout-button {
+  padding: 0.5rem 1rem;
+  background-color: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.dashboard-welcome {
+  font-size: 1.05rem;
+  color: #111827;
+  margin-bottom: 1.5rem;
+}
+
+.balance-card {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.balance-label {
+  margin: 0 0 0.5rem 0;
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+.balance-amount {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #1a1a2e;
+}
+
+.balance-loading {
+  margin: 0;
+  color: #6b7280;
+}
+
+.balance-error {
+  margin: 0;
+  color: #b91c1c;
+}
+
+.dashboard-note {
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+.wallet-id-note {
+  margin: 0.5rem 0 0 0;
+  font-size: 0.8rem;
+  color: #9ca3af;
+}
