@@ -115,7 +115,7 @@ Response returned to client
 RabbitMQ  →  NotificationListener consumes the event  →  notification logic runs
 ```
 
-### Wallet Balance Read — Cache-Aside Path
+### Wallet Balance Read - Cache Aside Path
 
 ```
 GET /api/wallet/me
