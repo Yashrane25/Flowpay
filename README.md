@@ -156,7 +156,7 @@ http://localhost:8080/swagger-ui.html
 This spins up MySQL and the backend together, fully containerized.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FlowPay.git
+git clone https://github.com/yashrane25/Flowpay.git
 cd FlowPay
 docker compose up --build
 ```
