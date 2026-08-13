@@ -44,8 +44,8 @@
 |---|---|
 | Backend | Java 21, Spring Boot 3.3, Spring Security, Spring Data JPA |
 | Database | MySQL 8.0, Flyway |
-| Caching | Redis (cache aside pattern) |
-| Messaging | RabbitMQ (producer/consumer, event driven) |
+| Caching | Redis |
+| Messaging | RabbitMQ |
 | Auth | JWT (httpOnly cookies), BCrypt, RBAC |
 | Frontend | React 18, Vite, React Router |
 | Testing | JUnit 5, Mockito |
